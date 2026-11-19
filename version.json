@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "url": "https://github.com/Bledorn/Macro/releases/download/1.0.0/MacroPesca_Setup.exe",
+  "url": "https://github.com/Bledorn/Macro/releases/download/1.0.1/MacroPesca_Setup.exe",
   "changelog": "Updater semi-automatico: barra de progresso, deteccao de falha do instalador e versao unica no config."
 }
