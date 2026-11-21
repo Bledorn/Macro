@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/Bledorn/Macro/releases/download/v1.1.0/MacroPesca_Setup.exe",
-  "changelog": "1.1.0 - Aba Builder (stats de build + encantamentos), Mapa com arrasto invertido, lista de quem esta online na aba Chat e correcoes de layout."
+  "version": "1.1.1",
+  "url": "https://github.com/Bledorn/Macro/releases/download/v1.1.1/MacroPesca_Setup.exe",
+  "changelog": "1.1.1 - Builder: encantamentos sempre visiveis na lista, janela de previa alinhada ao TOTAL, Cursed de HP somando por peca, busca estavel ao abrir/fechar o painel Mostrar tudo, menu das gavetas Outros/Config redesenhado e correcoes de desempenho."
 }
