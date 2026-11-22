@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/Bledorn/Macro/releases/download/v1.1.1/MacroPesca_Setup.exe",
-  "changelog": "1.1.1 - Builder: encantamentos sempre visiveis na lista, janela de previa alinhada ao TOTAL, Cursed de HP somando por peca, busca estavel ao abrir/fechar o painel Mostrar tudo, menu das gavetas Outros/Config redesenhado e correcoes de desempenho."
+  "version": "1.2.4",
+  "url": "https://github.com/Bledorn/Macro/releases/download/v1.2.4/MacroPesca_Setup.exe",
+  "changelog": "1.2.4 - Pings em tempo real: nivel do Alchemist por Proficiency, nome do jogador corrigido (inclusive cortado) e botao de copiar o nome ao lado do horario. Aviso 'You found' de outra pessoa mostra o nome de quem achou. HUD com um unico botao Pausar Em Off. Chat mais rapido, mensagens selecionaveis, animacao das cartas corrigida. Botao direito so na aba Mapa."
 }
